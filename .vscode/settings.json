@@ -1,0 +1,12 @@
+{
+  "prettier.semi": false,
+  "prettier.configPath": "",
+  "reactSnippets.settings.prettierEnabled": true,
+  "prettier.requireConfig": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true
+}
