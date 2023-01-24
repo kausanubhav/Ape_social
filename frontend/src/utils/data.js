@@ -62,7 +62,7 @@ export const searchQuery = (searchTerm) => {
         _id,
         destination,
         postedBy->{
-_id,userName,image
+       _id,userName,image
         },
         save[]{
             _key,
